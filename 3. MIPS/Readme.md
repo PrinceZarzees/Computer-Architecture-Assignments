@@ -1,2 +1,2 @@
-In this assignment, you will design, simulate (in S/W), and implement (in H/W) a modified
+In this assignment, we have designed, simulated (in software), and implemented (in hardware) a modified
 and reduced version of the MIPS instruction set.
